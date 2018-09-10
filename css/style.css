@@ -5,14 +5,14 @@ body {
 	margin: 0px;
 }
 
-#top-bar {
+.top-bar {
 	position: fixed;
 	float: top;
 	width: 100%;
 	background: #333333;
 }
 
-#bottom-bar {
+.bottom-bar {
 	position: fixed;
 	float: bottom;
 	width: 100%;
