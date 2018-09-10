@@ -14,7 +14,7 @@ body {
 }
 
 .map-name p {
-	padding-left: 100px;
+	padding-left: 10%;
 	line-height: 100px;
 	vartical-align: middle;
 	width: 30%;
@@ -24,7 +24,7 @@ body {
 }
 
 .credit-name p {
-	padding-right: 100px;
+	padding-right: 10%;
 	vartical-align: middle;
 	line-height: 100px;
 	width: 30%;
