@@ -42,9 +42,8 @@ body {
 }
 
 .map {
-	float: top;
-	height: 100vh;
-	min-height: 100vh;
+	height: 80vh;
+	min-height: 90vh;
 }
 
 #bottom-bar {
