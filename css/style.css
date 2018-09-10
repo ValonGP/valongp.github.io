@@ -5,8 +5,7 @@ body {
 	margin: 0px;
 }
 
-#top-bar {
-	position: fixed;
+.top-bar {
 	float: top;
 	height: 100px;
 	width: 100%;
@@ -19,6 +18,7 @@ body {
 	display: table-cell; 
 	vertical-align: middle; 
 	text-align: center;
+	float: middle;
 	line-height: 100px;
 	width: 100%;
 }
