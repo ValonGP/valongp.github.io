@@ -8,13 +8,17 @@ body {
 #top-bar {
 	position: fixed;
 	float: top;
-	height: 150px;
+	height: 100px;
 	width: 100%;
 	background: #333333;
+	display: table;
+	color: white;
 }
 
-#map-name {
-	transform: translate(50%,50%);
+.map-name p {
+	display: table-cell; 
+	vertical-align: middle; 
+	text-align: center;
 }
 
 #bottom-bar {
