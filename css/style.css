@@ -15,16 +15,15 @@ body {
 
 .map-name p {
 	padding-left: 100px;
-	vertical-align: middle;
 	line-height: 100px;
 	width: 30%;
 	color: white;
 	float: left;
+	text-align: left;
 }
 
 .credit-name p {
 	padding-right: 100px
-	vertical-align: middle;
 	line-height: 100px;
 	width: 30%;
 	color: #555555;
