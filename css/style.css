@@ -8,15 +8,15 @@ body {
 #top-bar {
 	position: fixed;
 	float: top;
-	height: 50px;
+	height: 150px;
 	width: 100%;
 	background: #333333;
+	transform: translate(50%,50%);
 }
 
 #bottom-bar {
 	position: fixed;
 	float: bottom;
-	height: 50px;
 	width: 100%;
 	background: #333333;
 }
