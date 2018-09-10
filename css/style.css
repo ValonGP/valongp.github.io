@@ -14,9 +14,9 @@ body {
 }
 
 .map-name p {
-	padding-left: 10%;
+	padding-left: 5%;
 	line-height: 100px;
-	vartical-align: middle;
+	vertical-align: middle;
 	width: 30%;
 	color: white;
 	float: left;
@@ -24,8 +24,8 @@ body {
 }
 
 .credit-name p {
-	padding-right: 10%;
-	vartical-align: middle;
+	padding-right: 5%;
+	vertical-align: middle;
 	line-height: 100px;
 	width: 30%;
 	color: #555555;
