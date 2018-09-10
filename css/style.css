@@ -51,6 +51,17 @@ body {
 	min-height: 90vh;
 }
 
+.map iframe {
+	width: 100%;
+	display: block;
+	pointer-events: none;
+	position: relative; /* IE needs a position other than static */
+}
+
+.map iframe.clicked {
+	pointer-events: auto;
+}
+
 #bottom-bar {
 	position: fixed;
 	float: bottom;
