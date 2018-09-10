@@ -11,15 +11,12 @@ body {
 	height: 100px;
 	width: 100%;
 	background: #333333;
-	display: table;
 	color: white;
 }
 
 .map-name p {
-	display: table-cell; 
 	vertical-align: middle; 
 	text-align: center;
-	float: middle;
 	line-height: 100px;
 	width: 100%;
 }
