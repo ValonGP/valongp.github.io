@@ -39,6 +39,7 @@ body {
 
 .map {
 	float: bottom;
+	height: 100%;
 }
 
 #bottom-bar {
