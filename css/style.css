@@ -11,14 +11,25 @@ body {
 	height: 100px;
 	width: 100%;
 	background: #333333;
-	color: white;
 }
 
 .map-name p {
 	padding-left: 100px;
 	vertical-align: middle;
 	line-height: 100px;
-	width: 100%;
+	width: 30%;
+	color: white;
+	float: left;
+}
+
+.credit-name p {
+	padding-right: 100px
+	vertical-align: middle;
+	line-height: 100px;
+	width: 30%;
+	color: #555555;
+	float: right;
+	text-align: right;
 }
 
 #bottom-bar {
