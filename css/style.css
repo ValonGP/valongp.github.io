@@ -11,6 +11,7 @@ body {
 	height: 100px;
 	width: 100%;
 	background: #333333;
+	border-bottom: 10px solid #EEEEEE;
 }
 
 .map-name p {
