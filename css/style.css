@@ -38,8 +38,7 @@ body {
 }
 
 .map {
-	height: 90%;
-	width: 100%;
+	float: bottom;
 }
 
 #bottom-bar {
