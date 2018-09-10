@@ -8,6 +8,7 @@ body {
 #top-bar {
 	position: fixed;
 	float: top;
+	height: 50px;
 	width: 100%;
 	background: #333333;
 }
@@ -15,6 +16,7 @@ body {
 #bottom-bar {
 	position: fixed;
 	float: bottom;
+	height: 50px;
 	width: 100%;
 	background: #333333;
 }
