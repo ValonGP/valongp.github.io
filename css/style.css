@@ -22,11 +22,6 @@ body {
 	border-bottom: 10px solid #EEEEEE;
 }
 
-.gm-style-pbc {
-    /* z-index: 5 !important; */
-    /* pointer-events: none; */
-}
-
 .map-name p {
 	height: 100px;
 	padding-left: 5%;
