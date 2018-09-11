@@ -10,39 +10,27 @@ body {
 	megin: 0;
 }
 
-.top-bar {
-	position: fixed;
-	height: 15%;
-	width: 100%;
-	position: fixed;
-	top: 0;
-	background: #333333;
-}
-
-.map-name p {
-	height: 15%;
-	padding-left: 5%;
-	line-height: 15%;
-	vertical-align: middle;
-	width: 50%;
-	color: white;
-	float: left;
-	text-align: left;
+.bottom-bar {
+  background: green;
+  height: 150px;
+  float: bottom;
+  display: inline-block;
+  position: fixed;
 }
 
 .credit-name p {
-	height: 15%;
-	padding-right: 5%;
-	vertical-align: middle;
+  position: fixed;
+	height: 100px;
 	line-height: 15%;
-	width: 30%;
 	color: #555555;
-	float: right;
-	text-align: right;
+	text-align: left;
+  opacity: 0.5;
+  padding-left: 20px;
 }
 
 .map {
 	position: fixed;
-	height: 100vh;
+	height: 130vh;
 	width: 100vw;
+  top: -50px;
 }
