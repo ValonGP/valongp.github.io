@@ -14,7 +14,7 @@ body {
 
 .top-bar {
 	float: top;
-	height: 200px;
+	height: 100px;
 	width: 100%;
 	background: #333333;
 	border-bottom: 10px solid #EEEEEE;
@@ -27,7 +27,7 @@ body {
 }
 
 .map-name p {
-	height: 10%;
+	height: 100px;
 	padding-left: 5%;
 	line-height: 100px;
 	vertical-align: middle;
@@ -38,7 +38,7 @@ body {
 }
 
 .credit-name p {
-	height: 10%;
+	height: 100px;
 	padding-right: 5%;
 	vertical-align: middle;
 	line-height: 100px;
@@ -58,7 +58,7 @@ body {
 }
 
 .i4ewOd-pzNkMb-haAclf {
-	display: none;
+	display: none; !important
 }
 
 .map iframe {
