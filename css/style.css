@@ -13,6 +13,7 @@ body {
 .bottom-bar {
 	background: green;
 	height: 150px;
+	width: 100vw;
 	float: bottom;
 	display: inline-block;
 	position: fixed;
@@ -21,7 +22,7 @@ body {
 .credit-name p {
 	position: fixed;
 	height: 100px;
-	width: 100%;
+	width: 100vw;
 	line-height: 15%;
 	color: #555555;
 	text-align: middle;
