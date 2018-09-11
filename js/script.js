@@ -9,7 +9,7 @@
        var geocoder = new google.maps.Geocoder();
        var centered = 0;
 
-       map = new google.maps.Map(document.getElementById('map-canvas'), {
+       map = new google.maps.Map(document.getElementById('map'), {
          center: defaultCenter,
          zoom: defaultZoom,
          mapTypeId: google.maps.MapTypeId.ROADMAP,
