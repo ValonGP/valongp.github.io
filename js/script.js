@@ -3,8 +3,6 @@ var map = null;
 function initialize() {
 
 	map = new google.maps.Map(document.getElementById('map'), {
-		center: defaultCenter,
-		zoom: defaultZoom,
 		mapTypeId: google.maps.MapTypeId.ROADMAP,
 		gestureHandling: 'greedy',
 		streetViewControl: false,
