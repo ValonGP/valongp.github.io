@@ -11,26 +11,27 @@ body {
 }
 
 .bottom-bar {
-  background: green;
-  height: 150px;
-  float: bottom;
-  display: inline-block;
-  position: fixed;
+	background: green;
+	height: 150px;
+	float: bottom;
+	display: inline-block;
+	position: fixed;
 }
 
 .credit-name p {
-  position: fixed;
+	position: fixed;
 	height: 100px;
+	width: 100%;
 	line-height: 15%;
 	color: #555555;
-	text-align: left;
-  opacity: 0.5;
-  padding-left: 20px;
+	text-align: middle;
+	opacity: 0.5;
+	padding-left: 20px;
 }
 
 .map {
 	position: fixed;
 	height: 130vh;
 	width: 100vw;
-  top: -50px;
+	top: -50px;
 }
