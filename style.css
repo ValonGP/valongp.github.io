@@ -8,21 +8,14 @@ body {
   font: 20px arial, sans-serif;
   background-color: rgba(0, 0, 0, 0);
   color: white;
-}
-
-#title-upper {
-  text-align: center;
-  line-height: 50px;
-  height: 50px;
-  font-size: 25px;
-  width: 100%;
+  height: 100%;
 }
 
 #update-location {
   border: 2px solid powderblue;
   color: rgba(0, 0, 0, 0.4);
   display: block;
-  height: 50px;
+  height: 10%;
   width: 100%;
   font-size: 16px;
   padding-bottom: 0px;
@@ -35,7 +28,7 @@ body {
 #box {
   border: 2px solid powderblue;
   width: 100%;
-  height: 150px;
+  height: 90%;
   text-align: center;
   float: center;
   display: block;
