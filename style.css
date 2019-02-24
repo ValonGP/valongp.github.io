@@ -34,14 +34,17 @@ body {
   margin: 0;
   color: white;
   border-bottom: 0px;
+  position: relative;
   vertical-align: center;
   background-color: rgba(0, 0, 0, 0.1);
 }
 
 #trainer-location {
-  padding-top: 5%;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   text-align: center;
-  line-height: 70px;
   font-size: 64px;
   float: center;
 }
