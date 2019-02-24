@@ -2,12 +2,14 @@
 	text-align: center;
 	color: black
 	display: inline-block;
+	align: center;
 }
 
 .update-location {
 	background-color: #EEEEEE;
 	border: none;
 	color: black;
+	align: center;
 	text-align: center;
 	display: inline-block;
 	font-size: 16px;
