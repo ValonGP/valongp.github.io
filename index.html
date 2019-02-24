@@ -1,11 +1,15 @@
 ﻿<html>
 
   <link rel="stylesheet" type="text/css" href="style.css">
+  <link href='https://fonts.googleapis.com/css?family=Armata' rel='stylesheet'>
 
   <body>
 
+    
     <div id = "box">
+      <p id = "reminder">Note: Make sure you get as close as possible to the PokeStop!</p>
       <p id="trainer-location"></p>
+      <button id="update-location" onclick="getLocation()">UPDATE</button>
     </div>
    
     <script>
@@ -24,7 +28,7 @@
       }
 
     </script>
-    <button id="update-location" onclick="getLocation()">UPDATE LOCATION</button>
+   
   </body>
 
 </html>
