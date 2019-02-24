@@ -1,4 +1,13 @@
-﻿.update-prompt {
+﻿html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: 'Allerta'; font-size: 22px;
+}
+
+.update-prompt {
   text-align: center;
   float: center;
   width: 100%;
