@@ -1,8 +1,12 @@
 ﻿<html>
   <body>
-    <h1>Hello World</h1>
+
+    <p>Click to update your Location</p>
+    <button onclick = "getLocation()">Update Location</button>    
+    <p id = "trainer-location"></p>
+
     <script>
-      var x = document.getElementById("demo");
+      var x = document.getElementById("trainer-location");
       function getLocation() {
         if (navigator.geolocation) {
           navigator.geolocation.getCurrentPosition(showPosition);
