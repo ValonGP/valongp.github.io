@@ -8,23 +8,34 @@
     
     <div id = "box">
       <p id = "reminder">Note: Make sure you get as close as possible to the PokeStop!</p>
-      <p id="trainer-location"></p>
+      <div id = info>
+        <p id="latitude-title">LATITUDE</p>
+        <p id="latitude-value">-----</p>
+        <p id="longitude-title">LONGITUDE</p>
+        <p id="longitude-value">-----</p>
+      </div>
       <button id="update-location" onclick="getLocation()">UPDATE</button>
     </div>
    
     <script>
-      var x = document.getElementById("trainer-location");
+    
+      var latitude = document.getElementById("latitude-value");
+      var longitude = document.getElementById("longitude-value");
 
       function getLocation() {
+      	latitude.innerHTML = "Updating."
+        longitude.innerHTML = "Updating."
         if (navigator.geolocation) {
           navigator.geolocation.getCurrentPosition(showPosition);
         } else {
-          x.innerHTML = "Geolocation is not supported by this browser.";
+          latitude.innerHTML = "-----";
+          longitude.innerHTML = "GeoLocation is not Supported.";
         }
       }
 
       function showPosition(position) {
-        x.innerHTML = position.coords.latitude + "<br>" + position.coords.longitude;
+        latitude.innerHTML = position.coords.latitude;
+        longitude.innerHTML = position.coords.longitude;
       }
 
     </script>
