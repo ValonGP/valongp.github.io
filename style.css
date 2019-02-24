@@ -35,14 +35,15 @@ body {
   margin: 0;
   color: white;
   border-bottom: 0px;
+  vertical-align: center;
   background-color: rgba(0, 0, 0, 0.1);
 }
 
 #trainer-location {
-  vertical-align: center;
+  padding-top: 5%;
   text-align: center;
-  line-height: 50px;
-  font-size: 46px;
+  line-height: 70px;
+  font-size: 64px;
   float: center;
 }
 
