@@ -20,6 +20,7 @@ body {
   text-align: left;
   padding-left: 35%;
   height: 10px;
+  font-size: 40px;
   color: rgba(0, 0, 0, 0.2);
 }
 
@@ -27,15 +28,16 @@ body {
   text-align: left;
   padding-left: 35%;
   height: 10px;
+  font-size: 40px;
   color: rgba(0, 0, 0, 0.2);
 }
 
 #latitude-value {
-  font-size: 30px;
+  font-size: 50px;
 }
 
 #longitude-value {
-  font-size: 30px;
+  font-size: 50px;
 }
 
 #reminder {
