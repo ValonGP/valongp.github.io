@@ -1,16 +1,20 @@
 ﻿<html>
-  <head>
-    <link rel = "stylesheet" type = "text/css" href = "css/style.css">
-  </head>
-  <body style = "background-color:powderblue;">
 
-	<p id = "update-prompt">TRAINER TRACKER</p>
-	
-    <button id = "update-location" onclick = "getLocation()">Update Location</button>    
-    
-	<p id = "trainer-location"></p>
+  <body style="background-color:powderblue;">
+
+    <link rel = "stylesheet" type = "text/css" href = "css/style.css">
+
+    <p id="update-prompt">TRAINER TRACKER</p>
+
+    <button id="update-location" onclick="getLocation()">Update Location</button>
+
+
+
+
+    <p id="trainer-location"></p>
     <script>
       var x = document.getElementById("trainer-location");
+
       function getLocation() {
         if (navigator.geolocation) {
           navigator.geolocation.getCurrentPosition(showPosition);
@@ -20,8 +24,10 @@
       }
 
       function showPosition(position) {
-        x.innerHTML = "Latitude: " + position.coords.latitude + "<br>Longitude: " + position.coords.longitude; 
+        x.innerHTML = "Latitude: " + position.coords.latitude + "<br>Longitude: " + position.coords.longitude;
       }
+
     </script>
   </body>
+
 </html>

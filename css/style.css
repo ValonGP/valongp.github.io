@@ -1,19 +1,16 @@
 ﻿.update-prompt {
-	text-align: center;
-	color: black
-	display: inline-block;
-	align: center;
-	float: center;
-	width: 100%;
-	font: 15px arial, sans-serif;
+  text-align: center;
+  float: center;
+  width: 100%;
+  font: 20px arial, sans-serif;
 }
 
 .update-location {
-	background-color: #EEEEEE;
-	border: none;
-	color: black;
-	align: center;
-	text-align: center;
-	display: inline-block;
-	font-size: 16px;
+  background-color: black;
+  border: none;
+  color: black;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  float: center;
 }
