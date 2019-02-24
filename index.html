@@ -4,10 +4,11 @@
   </head>
   <body style = "background-color:powderblue;">
 
-    <font size="8" face="verdana" color="white">Click to update your Location</font>
+	<p id = "update-prompt">TRAINER TRACKER</p>
+	
     <button id = "update-location" onclick = "getLocation()">Update Location</button>    
-    <p id = "trainer-location"></p>
-
+    
+	<p id = "trainer-location"></p>
     <script>
       var x = document.getElementById("trainer-location");
       function getLocation() {

@@ -1,4 +1,10 @@
-﻿.update-location {
+﻿.update-prompt {
+	text-align: center;
+	color: black
+	display: inline-block;
+}
+
+.update-location {
 	background-color: #EEEEEE;
 	border: none;
 	color: black;
