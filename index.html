@@ -1,19 +1,13 @@
 ﻿<html>
 
-	<link rel = "stylesheet" type = "text/css" href = "style.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
 
   <body>
 
-    
-
-    <p id="update-prompt">TRAINER TRACKER</p>
-
-    <button id="update-location" onclick="getLocation()">Update Location</button>
-
-
-
-
-    <p id="trainer-location"></p>
+    <div id = "box">
+      <p id="trainer-location"></p>
+    </div>
+   
     <script>
       var x = document.getElementById("trainer-location");
 
@@ -26,10 +20,11 @@
       }
 
       function showPosition(position) {
-        x.innerHTML = "Latitude: " + position.coords.latitude + "<br>Longitude: " + position.coords.longitude;
+        x.innerHTML = position.coords.latitude + "<br>" + position.coords.longitude;
       }
 
     </script>
+    <button id="update-location" onclick="getLocation()">UPDATE LOCATION</button>
   </body>
 
 </html>
