@@ -2,12 +2,20 @@
 
   <link rel="stylesheet" type="text/css" href="style.css">
   <link href='https://fonts.googleapis.com/css?family=Armata' rel='stylesheet'>
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 
   <body>
+
 
     
     <div id = "box">
       <p id = "reminder">Note: Make sure you get as close as possible to the PokeStop!</p>
+      <br>
+      
+      <textarea readonly id = "locations" rows = "10" name="note" value="">
+      
+      </textarea>
+      <script> $("#locations").load( "text.txt" ); </script>
       
       <div id = info>
         <p id="latitude-title">LATITUDE</p>
@@ -24,8 +32,8 @@
       var longitude = document.getElementById("longitude-value");
 
       function getLocation() {
-      	latitude.innerHTML = "Updating."
-        longitude.innerHTML = "Updating."
+      	latitude.innerHTML = "Updating..."
+        longitude.innerHTML = "Updating..."
         if (navigator.geolocation) {
           navigator.geolocation.getCurrentPosition(showPosition);
         } else {

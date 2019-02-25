@@ -1,0 +1,602 @@
+# Marketon Park
+Portico from Markeaton Hall - 52.935014,-1.509215
+Alf Cheshire Remembrance Bench - 52.934548,-1.509354
+1930 Remembrance Bench - 52.934820,-1.507809
+Colin Turkey Remembrance Bench - 52.934018,-1.507809
+Ernie Woodrow Bench - 52.934303,-1.506586
+Keith Walker Memorial Bench - 52.934251,-1.504698
+Markeaton Craft Village - 52.934807,-1.504827
+Markeaton Park Craft Village - 52.935376,-1.505406
+Markeaton Park Friends - 52.932298,-1.504140
+Pitch and Putt tennis Club - 52.932764,-1.506114
+Markeaton Park Restoration Project - 52.936098,-1.503947
+Playground Pirate Ship - 52.936563,-1.504397
+Playground Twin Web Tower - 52.937113,-1.505610
+Mundy Stop Light Rail - 52.937462,-1.503711
+Markeaton Park - 52.937844,-1.506361
+Markeaton Train Arch - 52.938387,-1.507047
+Markeaton Park,Skate Park - 52.936395,-1.503131
+Friends of Markeaton Park - 52.936324,-1.501265
+# Park Farm
+St Nicholas Church - 52.945933,-1.501265
+The Raj - 52.944278,-1.502895
+Allestree Library - 52.944260,-1.496437
+Park Farm Post Office - 52.944027,-1.495643
+AgeUK Allestree - 52.943601,-1.496673
+St John's Church - 52.944661,-1.494548
+# University of Derby
+Linking Forms - 52.936812,-1.498690
+University of Derby Sundial - 52.937458,-1.496415
+Derby University Memorial Fountain - 52.937665,-1.495814
+Derby Multifaith Centre - 52.937678,-1.496801
+# Mackworth
+The Ruins at Mackworth - 52.936837,-1.535189
+All Saints - 52.937031,-1.529396
+Mackworth United Reform Church - 52.928741,-1.513045
+Mackworth Clock - 52.928495,-1.518066
+Christ the King Catholic Church - 52.927887,-1.520212
+The Diocesan Centre - 52.927396,-1.519396
+National Cycle Network Mackworth - 52.923114,-1.513517
+# Mickleover
+National Cycle Network 54th Waymarker - 52.919016,-1.544952
+St John's Parish Church - 52.912841,-1.536756
+Lonsdale Swimming Pool - 52.911508,-1.530340
+Mickleover Memorial Hall - 52.907515,-1.543837
+Mickleover Methodist Church Centre - 52.906531,-1.544094
+Our Lady of Lourdes - 52.905521,-1.541219
+Mickleover Library - 52.904880,-1.545124
+Mickleover Community Centre - 52.904453,-1.544298
+All Saints Parish Church - 52.904323,-1.547441
+Mickleover Church - 52.894929,-1.557891
+# Etwall
+Etwall Alms House - 52.885258,-1.601923
+St Helens Church - 52.884611,-1.601772
+# Hilton
+Hilton Methodist Church - 52.884611,-1.601772
+Old Talbot 15th Century Inn - 52.872922,-1.636083
+Hilton House Hotel - 52.872396,-1.639296
+Hilton Recreation Ground - 52.872098,-1.640562
+In Memory of Hilton Area Fallen - 52.869035,-1.637666
+Hilton Harriers Football Club - 52.864942,-1.636185
+Hilton Scouts and Guides Community Building - 52.870536,-1.635067
+Anyone for (Table) Tennis! - 52.870177,-1.634680
+Hilton Skate Park - 52.870468,-1.634219
+Hilton Village Hall - 52.870789,-1.633967
+Giant Chair - 52.871922,-1.629064
+# Littleover
+Littleover Methodist Church - 52.884611,-1.601772
+St Peters Church Littleover - 52.903757,-1.507316
+King George's Field - 52.899216,-1.515480
+Littleover Social Club - 52.895145,-1.509783
+Griffe Field Park - 52.895821,-1.520410
+Nimfa Whit Angel's - 52.888162,-1.537313
+The Hollybrook Column - 52.892486,-1.533226
+Haven Christian Centre - 52.891321,-1.530275
+Heatherton Boulder - 52.891075,-1.526048
+# Royal Derby Hospital
+Royal Derby Hospital Clock - 52.911444,-1.5 15255
+Childrens Airplane - 52.910370,-1.510985
+Soldier - 52.910706,-1.510942
+# Findern
+Findern Village Hall - 52.870510,-1.544550
+Findern Village Green - 52.870860,-1.543676
+# Sunnyhill
+Sunnydale Park Nature Reserve - 52.895473,-1.497188
+# Kilburn
+Kilburn Nature Reserve Sign - 53.012678,-1.43809
+Denby Bottles Methodist Church - 53.013658,-1.431431
+Newmount Methodist Church - 52.888104,-1.500149
+St Andrew's Church - 52.891062,-1.505202
+# Sinfin
+Sinfin Moor Church - 52.876725,-1.492317
+Sinfin Moor Social Club - 52.877411,-1.492016
+Holy Spirit Catholic Church - 52.878632,-1.490300
+Sinfin Park - 52.883989,-1.485429
+I hub Spire Sculpture - 52.877067,-1.467361
+# Chellaston
+Chellaston Common Centre - 52.867917,-1.437267
+Chellaston Community Club - 52.868977,-1.438029
+Chellaston Post Office - 52.868899,-1.438758
+Chellaston Methodist Church - 52.869119,-1.436977
+St. Peter's Church - 52.920484,-1.476048
+Plaque of Nathan Bentle 1806 - 52.869780,-1.434982
+Chellaston Scout Hut - 52.868996,-1.432418
+Brickwords Nature Reserve - 52.868977,-1.431656
+Back Lane Climbing Mushrooms - 52.872332,-1.432868
+Waystone Chellaston - 52.870842,-1.439831
+Fred Moss Memorial Bench - 52.869223,-1.442395
+Chellaston Park - 52.873866,-1.425455
+Fullness Lock Play Area - 52.875634,-1.447299
+# Allenton
+Derby War Memorial Village - 52.884155,-1.449530
+St Edmunds Parish Church - 52.883035,-1.450710
+Osmaston Road Post Office Allenton - 52.889127,-1.451494
+The Crown Pub - 52.889308,-1.450957
+## GYM ## Allenton Hippopotamus Monument - 52.890734,-1.451982
+Spider Island - 52.891737,-1.453580
+Osmaston Park Entrance - 52.891737,-1.453580
+Osmaston Park Play Area - 52.893593,-1.463349
+Osmaston Park - 52.892156,-1.459926
+Moorways Swimming Pool - 52.891101,-1.461139
+Rolls Royce Founder - 52.887695,-1.463161
+# Elvaston
+War Memorial Elvaston - 52.887398,-1.391498
+# Elvaston Castle
+In Memory of Lady - 52.895732,-1.396701
+National Cycle Network Waymarker - 52.895360,-1.396701
+Elvaston Castle Lake Archway - 52.894538,-1.395661
+Historic Archway - 52.894603,-1.394609
+Elvaston Castle Historic Sunken Garden - 52.893735,-1.395092
+Hiding Place - 52.894227,-1.393965
+Elvaston Castle Stone Archway - 52.893159,-1.393064
+Art in the Park - 52.893133,-1.390951
+For Toby - 52.893502,-1.391283
+Elvaston Play Area - 52.893496,-1.390522
+Tea Party Carving - 52.893697,-1.397538
+Gate House - 52.893282,-1.397635
+Elvaston Castle Country Park - 52.893289,-1.398944
+Hollow Spire - 52.892661,-1.399019
+Elvaston Church - 52.892739,-1.396766
+Elvaston Castle Gatehouse - 52.892972,-1.396390
+Elvaston Castle Historic Stone Bench - 52.892739,-1.395199
+Art in The Park #3 - 52.892544,-1.394631
+Elvaston Castle Gateway - 52.891871,-1.395650
+Happy Huntsman Tree - 52.891938,-1.395983
+Elvaston Castle Oak Leaf Bench - 52.892631,-1.392893
+Elvaston Castle Sculpture - 52.891805,-1.391299
+Harrington Shield - 52.892375,-1.391079
+Old English Garden - 52.891731,-1.389749
+Carved Books Secret Garden - 52.891391,-1.389889
+Elvaston Obelisk - 52.890747,-1.390017
+Castle Entrance - 52.893436,-1.406239
+Elvaston Castle Approach - 52.882018,-1.398493
+# Alvaston
+The James Wyatt Function Room - 52.891136,-1.413546
+St Michael's Church Hall - 52.894256,-1.419940
+St Michael and All Angels Church - 52.896169,-1.418459
+Alvaston Baptist Church - 52.898959,-1.424253
+'They Put The Jumps In' Monolith - 52.895949,-1.427429
+Blue Peter Pub - 52.895774,-1.428341
+Alvaston United Reformed Church - 52.895598,-1.429650
+The Roundhouse Pub - 52.898227,-1.433201
+Kingdom Hall of Jehovah's Witnesses - 52.898870,-1.440545
+Tayberry Close Recreation Ground - 52.897071,-1.445185
+Harvey Road Post Office - 52.892577,-1.442320
+Engraved Seating - 52.891807,-1.445421
+Alvaston Skate Park - 52.905051,-1.436419
+Church House - 52.902605,-1.439488
+Flowers - 52.904028,-1.445743
+St Osmund's Church - 52.903940,-1.446446
+Civic Trust Award - 52.904374,-1.449970
+# Alvaston Park
+Alvaston Park Cubes - 52.905443,-1.442664
+Earth - 52.906231,-1.442412
+Mercury - 52.907399,-1.441602
+Human Sundial - 52.906775,-1.440931
+Sun - 52.907121,-1.440765
+Venus - 52.906496,-1.439863
+Alvaston Park Mural - 52.906419,-1.439477
+Alvaston Park - 52.909681,-1.440185
+# Spondon
+Spondon Linear Park Sign - 52.911017,-1.402731
+Spondon Railway Station - 52.912000,-1.410477
+Spondon Linear Park - 52.914911,-1.413953
+Willowcroft Road Park - 52.915002,-1.405928
+St. Werburgh's Church - 52.919129,-1.409318
+Spondon History Trail No. 8 - 52.919256,-1.409941
+Spondon History Trail No. 7 - 52.919580,-1.409394
+Guzzlers Nook - 52.919560,-1.407022
+Spondon History Trail No. 4 - 52.919431,-1.405274
+Spondon Library and Village Hall - 52.920084,-1.404684
+Gates of Field House and Spondon Hall - 52.920789,-1.411604
+Spondon Village History Trail 10 - 52.921003,-1.408964
+The Oak Leaf Sculpture - 52.922005,-1.407033
+Spondon Kingdom Hall - 52.921637,-1.405638
+Millenium Clock - 52.921436,-1.404802
+Derby Handshake - 52.921320,-1.405145
+Dale Road Park - 52.924534,-1.388537
+Bluebells Farm History Plough - 52.932813,-1.396927
+# Locko Park
+Locko Park Gates - 52.936889,-1.402302
+Locko Park Footpath Sign - 52.939545,-1.392088
+Locko Manor House - 52.943601,-1.392281
+# Borrowash
+The Queens Head - 52.917771,-1.373656
+Ockbrook War Memorial - 52.913863,-1.376681
+Borrowash Library and Information Centre - 52.907911,-1.381316
+St Stephens Church Borrowash - 52.905672,-1.381488
+St Highs Catholic Church - 52.907859,-1.386659
+Derby Canal Path - 52.903355,-1.382990
+National Cycle Network - 52.901349,-1.390135
+# Chaddesden
+West Park Meadows Nature Reserve - 52.922920,-1.418288
+West Park Meadows LNR - 52.922674,-1.417580
+Chaddesden Park - 52.923127,-1.436119
+Chesapeake Community Centre - 52.926193,-1.423008
+Chadd Park Pergola - 52.925783,-1.430991
+Diamond Jubilee Graffiti Art - 52.926222,-1.433973
+Triangle Mosaic - 52.926022,-1.433094
+The Woodpecker 2011 - 52.926632,-1.432557
+Cheddesden Park Rec - 52.926341,-1.431822
+Chaddesden Nature Area - 52.927684,-1.431559
+The Philip Whitehead Memorial Library Chaddesden - 52.927354,-1.433651
+Welcome to Chaddesden Park - 52.927859,-1.434660
+Chaddesden 1914-1918 War Memorial - 52.928635,-1.434317
+Chaddesden Park - 52.928590,-1.430926
+Chaddesden Hall - 52.929320,-1.434606
+Resistant Bollard - 52.934031,-1.432064
+Wilsthorpe Road Evangelical Church - 52.931781,-1.439166
+Methodist Church Mayfield Rd - 52.931367,-1.446075
+132nd Derby Scout Group - 52.929996,-1.442471
+Chaddesden Park Social Club - 52.927085,-1.445754
+Commonwealth War Graves - 52.926451,-1.447642
+Derwent Community Library - 52.930849,-1.448436
+Sussex Circus Post Office - 52.934031,-1.450710
+Sussex Circus Play Area - 52.934380,-1.450431
+Derbyshire County Cricket Club - 52.925815,-1.460849
+The Gateway - 52.927522,-1.459197
+Racecourse Playing Fields - 52.928635,-1.458178
+Racecource Gazebo - 52.928861,-1.459787
+Roller World - 52.937171,-1.464722
+St Philips Church - 52.938038,-1.443350
+Chaddesden Wood Nature Reserve - 52.945973,-1.430186
+Local Nature Reserve - 52.945947,-1.431318
+Chaddesden Wood Trail Waymarker 10 - 52.946785,-1.429714
+Chaddesden Wood Bluebell Trail Waymarker - 52.946630,-1.435111
+Derby City Parks Chaddesden Wood - 52.947470,-1.433458
+Chaddesden Wood Oakwood Trail Waymarker #8 - 52.948369,-1.430411
+Chaddesden Woods Way Post 9 - 52.947516,-1.429607
+Chaddesden Wood Lime Trail Waymarker - 52.949132,-1.428405
+Chaddesden Wood Lime Tree Trail Marker - 52.949908,-1.427976
+# Oakwood
+The Oak and Acorn - 52.941484,-1.431162
+Oakwood Outdoor Gym - 52.941859,-1.430776
+Springwood Leisure Centre - 52.943068,-1.431463
+Oakwood Play Area - 52.943902,-1.430669
+Oakwood Trail Waymarker 2 - 52.946656,-1.430980
+Oakwood Trail Waymarker 3 - 52.946552,-1.431935
+Oakwood Trail Waymarker 4 - 52.946436,-1.432911
+Oakwood Trail Waymarker 7 - 52.948207,-1.432482
+Kings Corner Public House - 52.949964,-1.410418
+The Windmill - 52.949577,-1.442261
+# Breadsall
+Breadsall Village Memorial Hall - 52.952948,-1.446569
+Breadsall Cricket Club - 52.953637,-1.445303
+Memory of Councillor Brian Smith - 52.954297,-1.450002
+Breadsall Church Hall - 52.954594,-1.449723
+Great Northern Greenway (Breadsall Entrace) - 52.951401,-1.451097
+Station Master's House - 52.950683,-1.453586
+Breadsall Station ~ Toilet Block - 52.950903,-1.452963
+Clock Tower - 52.946287,-1.460795
+# Kedleston Hall
+Human Badger Den! - 52.959145,-1.551604
+The Long Walk at Kedleston Hall - 52.960748,-1.549244
+Derbyshire Jog Marker 3 - 52.961679,-1.547399
+Spring at Kedleston Hall - 52.961341,-1.536916
+South Front Kedleston Hall - 52.958898,-1.535940
+Humpty Dumpty had a great fall - 52.959396,-1.536970
+Tree Horn - 52.959790,-1.539052
+Kedleston Hall Arcadia - 52.958136,-1.537228
+Path Marker - 52.959118,-1.539910
+National Trust Marker - 52.956994,-1.547549
+The Short Walk - 52.955404,-1.540468
+Green Gaze - 52.954034,-1.526606
+Kedleston Hall Gate House - 52.967435,-1.522486
+# Quarndon
+Quarndon War Memorial - 52.965581,-1.503035
+Chalybeate Spring Well - 52.960088,-1.506178
+# Allestree
+Water Tower - 52.963047,-1.496179
+Woodlands Evangelical Church - 52.953174,-1.493556
+Evergreen Club Allestree - 52.954457,-1.485440
+Allestree Park and Nature Reserve - 52.954803,-1.485370
+St Edmunds Church Hall - 52.952851,-1.483825
+St Edmund's Parish Church - 52.953571,-1.483669
+The Glorious Dead Memorial Cross - 52.953794,-1.483900
+Birds of Allestree - 52.958315,-1.482462
+Allestree Park Sign - 52.957834,-1.483154
+Allestree Walk Marker 7 - 52.958277,-1.480874
+Walk Marker - 52.960054,-1.478444
+Allestree Park Trail Way Marker 3 - 52.960669,-1.479152
+Allestree Park Trail Way Marker 2 - 52.962227,-1.481491
+Allestree Park - 52.962970,-1.483305
+Allestree Pond - 52.962304,-1.484914
+Allestree Park House - 52.962795,-1.485386
+# Darley Abbey
+Darley & Nutwood Reserve - 52.947677,-1.476449
+Darley Local Nature Reserve - 52.945027,-1.474689
+Darley & Nutwood Local Nature Reserve - 52.944742,-1.471514
+Darley Abbey Mills - 52.943359,-1.475312
+Great War Memorial - 52.944044,-1.479303
+Darley Abbey Fish Pass - 52.942454,-1.476213
+Darley Abbey Plaque - 52.941563,-1.475928
+Darley Abbey Cricket Pavallion - 52.941120,-1.475022
+Darley Barn Outoor Centre - 52.941101,-1.477050
+Darley Park National Cycle Network - 52.938846,-1.474003
+# Derby
+Derwent Valley Mills World Heritage Site - 52.941208,-1.467276
+Garden City Tavern - 52.934022,-1.469615
+Coach and Horses Inn - 52.933886,-1.471750
+Roman Derventio Site - 52.933977,-1.476159
+Derventio Sundial - 52.933278,-1.475869
+Old City Road Plaque - 52.932547,-1.475816
+Parker's Piece Cricket Pavillion - 52.932295,-1.476299
+Tree Commemoration of Chester Green - 52.932709,-1.471910
+Chester Green - 52.931409,-1.474968
+Route 54 Marker - 52.931371,-1.476846
+Chester Green Viaduct - 52.931034,-1.477318
+Handyside Bridge Plaque - 52.930510,-1.477747
+Derby Rowing Club - 52.931358,-1.478326
+St. Paul's Church - 52.929851,-1.472801
+Mansfield Street Methodist Church - 52.929663,-1.474485
+Duke of Clarence - 52.929269,-1.473091
+Prime Enterprise Clock - 52.928208,-1.473101
+The Bridge Inn - 52.927296,-1.474646
+St. Marys Bridge Plaque - 52.927296,-1.475655
+Furnace Inn - 52.928797,-1.476567
+Derwent Clock - 52.929443,-1.479270
+Polish Club and Catholic Centre - 52.930232,-1.484946
+Horse & Groom - 52.929657,-1.487017
+Post Office - 52.931797,-1.490160
+Metallic Medicine Mural - 52.932399,-1.491383
+Derwent Valley Entrance Gates - 52.936389,-1.493669
+Markeaton Street Campus - 52.929388,-1.497402
+Markeaton Brook Plaque - 52.928240,-1.492703
+Saint Anne's Church - 52.928881,-1.489635
+Derby Christiadephians - 52.927195,-1.501560
+Ashbourne Road Church - 52.926787,-1.496544
+Derby Board School 1879 - 52.926253,-1.495594
+Church of Jesus Christ of Latter Day Saints - 52.925931,-1.506629
+The Cresent - 52.923377,-1.497005
+The Kings Highway - 52.919172,-1.507820
+Stockbrook Post Office - 52.915407,-1.494849
+Bramblebrook Community Centre - 52.916164,-1.491834
+Small Web Tower - 52.916287,-1.489838
+Basketball Area - 52.915873,-1.489474
+Dean Street Methodist Church - 52.914293,-1.493245
+Derby New Church - 52.908186,-1.498990
+Carlton Road Reformed Church - 52.905579,-1.497949
+Normanton Park - 52.902662,-1.489339
+Derbyshire Tennis Centre - 52.904123,-1.487221
+International Miracle Revival Fellowship - 52.904290,-1.484898
+St Augustine's Community Centre - 52.904924,-1.485225
+St Augustine's Parish Church - 52.906250,-1.482328
+Oast House - 52.897205,-1.478584
+St George Catholic Church - 52.899114,-1.480869
+Norman Arms - 52.898816,-1.482532
+St Giles Church War Memorial - 52.898758,-1.486845
+Acorn and Leaves - 52.894217,-1.474657
+Old Rolls Royce Building - 52.898566,-1.468735
+Davenport Road Evangelical Church - 52.901750,-1.461246
+Pakistan Community Centre - 52.901867,-1.473413
+Derby Former Baseball Ground Sculpture - 52.905154,-1.468863
+St Michaels Ukranian Catholic Church - 52.906401,-1.471707
+Dairy House Mosque - 52.907007,-1.471197
+Merlin Amateur Boxing Club - 52.910166,-1.466138
+Derby Multicultural Centre - 52.907954,-1.469132
+St James Centre - 52.908465,-1.469936
+Historic Rosehill House - 52.909144,-1.472222
+Eagles Evangelistic - 52.910141,-1.469057
+Harold Court 1903 - 52.910742,-1.469582
+La Gondola - 52.910768,-1.467168
+Derby Engineers Club - 52.911253,-1.468241
+Site of East Lodge - 52.911409,-1.469947
+Derby City Parks Arboretum - 52.910969,-1.470805
+Florentine Boar Statue - 52.911337,-1.471621
+Fountain Plaque 1845 - 52.911409,-1.473541
+Carved Acorns - 52.910977,-1.472216
+Playground Rock - 52.910751,-1.472613
+Greenzebo - 52.910401,-1.472425
+Joseph Hutton Fountain - 52.911883,-1.472227
+Arboretum 1840 Joseph Strutt Statue - 52.912125,-1.472082
+Arboretum Square Weedday Cross - 52.912248,-1.471830
+Royal Crown Derby - 52.912659,-1.470140
+Arboretum Victorian Electricity Box - 52.912523,-1.472892
+Derby Arboretum Community Garden - 52.912714,-1.473992
+The Weird Walnut Sculpture - 52.913035,-1.474872
+Arboretum London Plaque - 52.913339,-1.474013
+Arboretum Exit Plaque - 52.913471,-1.473284
+St Thomas Church Hall - 52.905838,-1.475977
+Hindu Temple Geeta Bhawan - 52.906899,-1.478122
+1911 Corden treet Mission Hill - 52.907735,-1.478407
+Indian Community Centre - 52.907522,-1.480880
+Repton House 1887 - 52.908881,-1.478825
+Silver Trees - 52.908470,-1.480327
+The Byron - 52.908334,-1.483213
+London Road Church - 52.906548,-1.451424
+Sanctuary Hide - 52.911124,-1.445507
+The Sanctuary - 52.911519,-1.444509
+Velodrome Hide - 52.912703,-1.445485
+Ornate Monilith - 52.912502,-1.450968
+IPro Stadium - 52.915776,-1.446944
+Lionel Pickering Entrance - 52.915193,-1.448768
+Bike Art by the River - 52.917826,-1.446762
+Derby Industrial History Benches - 52.917697,-1.455302
+Community Church Derby - 52.916740,-1.452234
+Spherical Art - 52.913291,-1.456708
+The Rhema Pentecostal Church - 52.911758,-1.464432
+Twisted Metal Sculpture - 52.916454,-1.458467
+Chrome Sphere - 52.916632,-1.459460
+North Midland Roundhouse Clock - 52.916515,-1.461192
+Derby Station - 52.916153,-1.463338
+Industry Virtue Fortitude - 52.916078,-1.463553
+The Climbing Unit - 52.924903,-1.451064
+The Tiffany Lounge - 52.915017,-1.467029
+W. W. Winter Mosiac - 52.914603,-1.466439
+The Station Inn - 52.915169,-1.466369
+Fire Bird Mural - 52.915370,-1.467538
+The Alexandra - 52.918790,-1.464422
+The Brunswick Inn - 52.918376,-1.464121
+The Alexandra Vigilantes Engine - 52.918485,-1.464835
+Historical Railway Cottages Sheffield Place - 52.917408,-1.464481
+Railway Cottages Restoration Plaque - 52.917104,-1.465200
+Historical Railway Terrace - 52.917133,-1.464019
+Chocolate Factory Graffiti - 52.918984,-1.466814
+Westfield Mural Plaque - 52.918986,-1.470328
+Junction - 52.917754,-1.467978
+Playground - 52.917498,-1.468354
+Derby West Indian Centre - 52.916767,-1.467576
+Nightingale Home - 52.916696,-1.468563
+Holy Trinity Church - 52.916771,-1.469625
+Queen Victoria Statue Derby - 52.916321,-1.469116
+Florence Nightingale - 52.917188,-1.470569
+Liversage Hall - 52.917460,-1.470001
+Traffic Street Plaque - 52.917832,-1.471342
+Castlefields Church - 52.918035,-1.470972
+A Piano - 52.911631,-1.477227
+New Life Christian Centre - 52.910472,-1.477720
+Normanton Road Click - 52.913044,-1.476610
+Normanton Gospel Hall - 52.913552,-1.476722
+Melbourne Bar - 52.914620,-1.477023
+YMCA Charity Shop - 52.914539,-1.478160
+Normanton Christadelphians - 52.913798,-1.480713
+Artcore Mural - 52.916230,-1.475424
+Ozzy Road Church - 52.916273,-1.473659
+Community Action - 52.915748,-1.475499
+Derby City Mission - 52.915286,-1.476229
+Gateway To Nowhere - 52.915584,-1.478096
+Baby Jaga - 52.916761,-1.479421
+Diamond Jubilee Commeration Trees - 52.916667,-1.473160
+St Joseph's Catholic Church - 52.913977,-1.482146
+Stand and Wait - 52.912871,-1.481502
+Standing Girl - 52.912457,-1.482296
+George Cross - 52.914598,-1.484581
+Potter House Christian Church - 52.915931,-1.483508
+Angel Fresco - 52.915554,-1.480992
+Bell & Castle - 52.916205,-1.480311
+LifeTime - 52.918918,-1.484340
+Chinese Community Centre - 52.919258,-1.483423
+Norman Baker - 52.918294,-1.486142
+Gerard Street Marker - 52.919206,-1.481770
+School Mural - 52.918880,-1.481132
+Little City Spiritualist Church - 52.918369,-1.479002
+Trinity Baptist Church - 52.918543,-1.478139
+Former Derby University Green Lane Site - 52.918818,-1.478133
+The Salvation Army 1907 - 52.918491,-1.474947
+Babington Buildings - 52.919695,-1.475794
+The Babington Arms - 52.919061,-1.476320
+Olympics Mural - 52.919552,-1.476738
+Oxfam - 52.920105,-1.475440
+John Lombe Statue - 52.920594,-1.475886
+Abandoned Walkers Cinema Building - 52.920086,-1.478149
+Venom Gate - 52.923501,-1.491362
+The Mile Pub - 52.925099,-1.490445
+Headless Cross 1665 - 52.925209,-1.490198
+Bass Worthington Rotary Club - 52.924860,-1.489425
+Burried Statue - 52.924769,-1.488808
+Art Bench - 52.924682,-1.488326
+The Reform Bill Heads - 52.924472,-1.487650
+Friar Gate Hands - 52.924536,-1.487081
+Historic 93 Friar Gate House - 52.924087,-1.486185
+Pickford House Museum - 52.924184,-1.485928
+Derby Bridge - 52.923822,-1.485348
+Friargate Unitarians - 52.923120,-1.484436
+St. John Evangelist Derby - 52.925684,-1.488111
+Markeaton Brooke Walkway Plaque - 52.926328,-1.489436
+126 Nuns Street - 52.926654,-1.488851
+Enterprise Centre Ball - 52.926561,-1.487843
+Banks Mill - 52.926722,-1.486250
+The Woodlark - 52.926525,-1.485917
+Peak Court Time Capsule - 52.926803,-1.484147
+Lonsdale House - 52.927631,-1.482119
+Seven Stars - 52.927534,-1.480992
+William Strutt Frs - 52.927237,-1.480499
+Postal Spire Clock - 52.926127,-1.466578
+The Derby Waterfall - 52.926066,-1.472227
+Chapel of St Mary on the Bridge - 52.927020,-1.475955
+Pope John Paul II British Visit 1982 - 52.927075,-1.479587
+Gold Walls - 52.924423,-1.484292
+Skate Park Mural - 52.921908,-1.468295
+The Smithfield Pub - 52.923215,-1.467930
+Site Heritage of Westfield Area - 52.919138,-1.470897
+Derby Theatre Metal Spiral Structure on Wall - 52.920274,-1.471224
+Britain's Largest Indoor Market - 52.920516,-1.472490
+Giant Swiss Clock - 52.920827,-1.473960
+The Ram 'Statue' Repping Derby - 52.921234,-1.474491
+Central Hall - 52.921444,-1.473997
+Derby,Morledge,Stone Sculpture - 52.921674,-1.473439
+Derby Bus Station - 52.921658,-1.472227
+Shot Tower Plaque - 52.922411,-1.474105
+Toyota City Statue - 52.923052,-1.472892
+Original Derby Ram Sculpture - 52.922842,-1.471814
+St Alkmunds Way Plaque - 52.923653,-1.470484
+Rotary Club Monument - 52.923773,-1.472200
+Exeter Arms - 52.924462,-1.471964
+Art Deco Clock Tower - 52.924517,-1.473364
+Erasmus Darwin Plaque - 52.924074,-1.473509
+Derby City Wall Art - 52.921254,-1.477822
+St Peter's Bank - 52.921541,-1.476465
+Herbert Brown 1848 - 52.921700,-1.476722
+Dance Hall - 52.921800,-1.475129
+Derby Guildhall Market - 52.922114,-1.475623
+Old Railway Office - 52.921693,-1.477994
+PDSA Charity Shop - 52.922331,-1.476878
+Steve Bloomer Monument - 52.922392,-1.476379
+Derby Fountains - 52.922609,-1.474271
+Council House Clock - 52.923084,-1.474668
+Derby Council House - 52.923366,-1.474646
+Corporation Street Garden,Derby - 52.923013,-1.475226
+The Waterfall Fountain - 52.923120,-1.477017
+Distance Stone 2012 - 52.923301,-1.476277
+Council House Fountain - 52.923495,-1.475371
+Plaque on Exeter Bridge in Derby - 52.923847,-1.474180
+King Engravings - 52.924003,-1.474630
+Derby Speakers Corner Plaque - 52.924096,-1.475816
+Sculptured Faces - 52.923666,-1.476846
+Joseph Wright - 52.923851,-1.477532
+1876 Derby Iron Gate - 52.924546,-1.477178
+Bonnie Prince Charlie - 52.924886,-1.476524
+BT10 High Speed Train Bogie,Silk Mill - 52.925403,-1.476637
+Derby Local Studies Library - 52.924155,-1.478047
+Derby Cathedral Green - 52.924740,-1.475649
+Old Silk Mill Mural - 52.925477,-1.477264
+The Flower Pot Pub - 52.926215,-1.479560
+Smith & Sons Clock - 52.925975,-1.478723
+St. Michael's Church - 52.925739,-1.478369
+Queens Leisure Center - 52.925299,-1.479549
+The Blessington Carriage - 52.925720,-1.480413
+Derby College - 52.925591,-1.482462
+The Tavern - 52.925906,-1.468904
+Z - 52.925008,-1.482307
+Brass Glyph Art - 52.924400,-1.481089
+Derby County Offices - 52.924420,-1.479887
+Rotary Club 7 Plaque - 52.924517,-1.479254
+Derby Registry Court of Probate - 52.924543,-1.478949
+Number 5 - 52.923880,-1.483031
+Henry Boden Plaque - 52.923689,-1.480703
+Friar Gate Clock - 52.923042,-1.481684
+Footpath Fossils - 52.922968,-1.479968
+The Strand Arcade - 52.922715,-1.479453
+Blacksmiths Yard - 52.923298,-1.478911
+Derby Library and Museum - 52.922395,-1.479775
+Mechanics Institution - 52.922289,-1.479410
+Historic Post Office - 52.922276,-1.478621
+The Central United Reform Church - 52.921742,-1.478879
+St Peter's Quarter Tree Panels - 52.921302,-1.479909
+Scientists Church Derby - 52.922259,-1.484098
+Historic Saxon House - 52.922217,-1.483750
+Crown Inn - 52.922039,-1.482698
+St Peters Quarter Mural - 52.920558,-1.479394
+The Orange Tree - 52.923944,-1.482967
+The Art House - 52.923414,-1.481883
+Fat Cat Bar & Kitchen - 52.923388,-1.482360
+Bishop Blaise Pub - 52.923171,-1.482130
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
