@@ -63,6 +63,8 @@ body {
   padding-top: 0px;
   height: 90%;
   max-height: 70%;
+  color: white;
+  font-family: 'Armata'; font-size: 15px;
   background-color: rgba(0, 0, 0, 0.05);
   border: none;
 }
