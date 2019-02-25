@@ -1,109 +1,57 @@
-﻿html {
-  height: 100%;
-  width: 100%;
-  background-image: linear-gradient(to bottom, rgba(119, 201, 212, 1), rgba(87, 188, 144, 1));
-  font-family: 'Armata';
-  font-size: 22px;
-}
+﻿<html>
 
-body {
-  background-color: rgba(0, 0, 0, 0);
-  color: white;
-  height: 97%;
-}
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link href='https://fonts.googleapis.com/css?family=Armata' rel='stylesheet'>
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 
-#info {
-  width: 100%;
-  position: fixed;
-  top: 30%;
-}
+  <body>
 
-#latitude-title {
-  height: 10px;
-  font-size: 40px;
-  color: rgba(0, 0, 0, 0.2);
-}
 
-#longitude-title {
-  height: 10px;
-  font-size: 40px;
-  color: rgba(0, 0, 0, 0.2);
-}
+    
+    <div id = "box">
+      <p id = "reminder">Note: Make sure you get as close as possible to the PokeStop!</p>
+      <br>
+      
+      <textarea wrap = "soft" readonly id = "locations" rows = "10" name="note" value="">
+      asd
+      asd
+      asd
+      asd
+      asd
+      </textarea>
+      <script> $("#locations").load( "text.txt" ); </script>
+      
+      <div id = info>
+        <p id="latitude-title">LATITUDE</p>
+        <p id="latitude-value">-----</p>
+        <p id="longitude-title">LONGITUDE</p>
+        <p id="longitude-value">-----</p>
+      </div>
+      <button id="update-location" onclick="getLocation()">UPDATE</button>
+    </div>
+   
+    <script>
+    
+      var latitude = document.getElementById("latitude-value");
+      var longitude = document.getElementById("longitude-value");
 
-#latitude-value {
-  font-size: 50px;
-}
+      function getLocation() {
+      	latitude.innerHTML = "Updating..."
+        longitude.innerHTML = "Updating..."
+        if (navigator.geolocation) {
+          navigator.geolocation.getCurrentPosition(showPosition);
+        } else {
+          latitude.innerHTML = "-----";
+          longitude.innerHTML = "GeoLocation is not Supported.";
+        }
+      }
 
-#longitude-value {
-  font-size: 50px;
-}
+      function showPosition(position) {
+        latitude.innerHTML = position.coords.latitude;
+        longitude.innerHTML = position.coords.longitude;
+      }
 
-#reminder {
-  color: white;
-  font-size: 20px;
-  padding-top: 5px;
-  padding-left: 5px;
-  padding-right: 5px;
-  padding-bottom: 5px;
-  
-  margin-left: 10px;
-  margin-top: 10px;
-  
-  display: inline-block;
-  border: 2px solid powderblue;
-  float: left;
-  background-color: rgba(0, 0, 0, 0.15);
-}
-
-#locations {
-  resize: none;
-  float: right;
-  overflow-y: scroll;
-  margin-right: 10px;
-  padding-top: 0px;
-  height: 90%;
-  max-height: 70%;
-  color: white;
-  text-align: right;
-  box-shadow: 0 0 5px 10px rgba(0, 0, 0, 0.05);
-  font-family: 'Armata'; font-size: 15px;
-  background-color: rgba(0, 0, 0, 0.05);
-  border: none;
-}
-
-#update-location {
-  border: 2px solid powderblue;
-  color: white;
-  display: inline-block;
-  height: 75px;
-  width: 250px;
-  position: absolute;
-  font-size: 20px;
-  bottom: 3%;
-  left: 0;
-  right: 0;
-  margin: auto;
-  background-color: rgba(0, 0, 0, 0.15);
-  font-family: 'Armata'; font-size: 22px;
-}
-
-#box {
-  border: 2px solid powderblue;
-  width: 100%;
-  max-width: 100%;
-  height: 100%;
-  max-height: 100%;
-  text-align: center;
-  display: block;
-  margin: 0;
-  color: white;
-  background-color: rgba(0, 0, 0, 0.1);
-}
-
-#trainer-location {
-  font-size: 64px;
-  margin: 0;
-  transform: translate(0%, 50%);
-  background-color: rgba(0, 0, 0, 0.1);
-}
-
+    </script>
+   
+  </body>
+</html>
