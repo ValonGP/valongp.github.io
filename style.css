@@ -46,23 +46,24 @@ body {
   padding-right: 5px;
   padding-bottom: 5px;
   
-  margin-left: 10px;
+  width: 96%;
+  
   margin-top: 10px;
   
   display: inline-block;
   border: 2px solid powderblue;
-  float: left;
+  float: center;
   background-color: rgba(0, 0, 0, 0.15);
 }
 
 #locations {
   resize: none;
   float: right;
-  margin-right: 10px;
+  margin-right: 25px;
   padding-top: 0px;
   height: 90%;
   width: 30%;
-  max-height: 70%;
+  max-height: 80%;
   color: white;
   text-align: right;
   box-shadow: 0 0 5px 10px rgba(0, 0, 0, 0.05);
