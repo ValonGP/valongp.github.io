@@ -36,8 +36,8 @@
       var longitude = document.getElementById("longitude-value");
 
       function getLocation() {
-      	latitude.innerHTML = "Updating..."
-        longitude.innerHTML = "Updating..."
+      	latitude.innerHTML = "..updating.."
+        longitude.innerHTML = "..updating.."
         if (navigator.geolocation) {
           navigator.geolocation.getCurrentPosition(showPosition);
         } else {
