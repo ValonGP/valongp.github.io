@@ -64,6 +64,8 @@ body {
   height: 90%;
   max-height: 70%;
   color: white;
+  text-align: right;
+  box-shadow: 0 0 5px 10px rgba(0, 0, 0, 0.05);
   font-family: 'Armata'; font-size: 15px;
   background-color: rgba(0, 0, 0, 0.05);
   border: none;
