@@ -398,6 +398,7 @@ Racecourse Playing Fields
 Railway Cottages Restoration Plaque
 Repton House 1887
 Resistant Bollard
+Reuben Spencer Statue
 Roller World
 Rolls Royce Founder
 Roman Derventio Site
@@ -464,12 +465,13 @@ St Peters Quarter Mural
 St Philips Church
 St Stephens Church Borrowash
 St Thomas Church Hall
-St. John Evangelist Derby
-St. Marys Bridge Plaque
-St. Michael's Church
-St. Paul's Church
-St. Peter's Church
-St. Werburgh's Church
+St.John Evangelist Derby
+St.Mark's Church
+St.Marys Bridge Plaque
+St.Michael's Church
+St.Paul's Church
+St.Peter's Church
+St.Werburgh's Church
 Stand and Wait
 Standing Girl
 Station Master's House
@@ -553,6 +555,7 @@ Wilsthorpe Road Evangelical Church
 Woodlands Evangelical Church
 YMCA Charity Shop
 Z
+Zion Methodist Church
 
 ------- Gym --------
 
