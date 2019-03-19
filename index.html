@@ -28,6 +28,10 @@
 	    var new_location = latitude + "/" + longitude;
 		new_location.select();
 		document.execCommand("copy");
+		
+		var bar = document.getElementById("update-location");
+		bar.innerHTML = "Copied"
+		
 	  }
 
       function getLocation() {
