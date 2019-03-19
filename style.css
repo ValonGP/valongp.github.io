@@ -13,8 +13,6 @@ body {
 }
 
 #info {
-  width: 60%;
-  position: fixed;
   top: 30%;
 }
 
@@ -81,7 +79,7 @@ body {
   font-size: 20px;
   bottom: 3%;
   left: 20.5%;
-  float: left;
+  float: center;
   background-color: rgba(0, 0, 0, 0.15);
   font-family: 'Armata'; font-size: 22px;
 }
@@ -100,7 +98,7 @@ body {
   font-size: 20px;
   bottom: 3%;
   left: 20.5%;
-  float: left;
+  float: center;
   background-color: rgba(0, 0, 0, 0.15);
   font-family: 'Armata'; font-size: 22px;
 }
@@ -113,7 +111,6 @@ body {
   max-height: 100%;
   text-align: center;
   display: block;
-  margin: 0;
   color: white;
   background-color: rgba(0, 0, 0, 0.1);
 }
