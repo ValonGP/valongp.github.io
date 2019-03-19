@@ -24,15 +24,15 @@
     
       var latitude = document.getElementById("latitude-value");
       var longitude = document.getElementById("longitude-value");
-			var template = document.getElementById("template")
+	  var template = document.getElementById("template")
 
 	  function copyLocation() {
 
-      template.select();
-      document.execCommand("copy")
+        template.select();
+        document.execCommand("copy")
 
 	    var bar = document.getElementById("copy-location");
-			bar.innerHTML = "Copied";
+	    bar.innerHTML = "Copied";
       
 	  }
 
