@@ -88,6 +88,7 @@ body {
 
 #template {
   opacity: 0;
+  font-size: 50px;
 }
 
 #copy-location {
