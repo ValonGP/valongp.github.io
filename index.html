@@ -26,12 +26,14 @@
       var longitude = document.getElementById("longitude-value");
 	  var template = document.getElementById("template")
 
+	  var bar = document.getElementById("copy-location");
+
 	  function copyLocation() {
 
         template.select();
         document.execCommand("copy")
 
-	    var bar = document.getElementById("copy-location");
+	    
 	    bar.innerHTML = "Copied";
       
 	  }
@@ -46,6 +48,7 @@
           latitude.innerHTML = "-----";
           longitude.innerHTML = "GeoLocation is not Supported.";
         }
+		bar.innerHTML = "COPY";
       }
 
       function showPosition(position) {
