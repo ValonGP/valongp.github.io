@@ -16,7 +16,7 @@
         <p id="longitude-title">LONGITUDE</p>
         <p id="longitude-value">-----</p>
       </div>
-      <button id="update-location" onclick="copyLocation()">COPY</button>
+      <button id="update-location" onclick="copyLocation()">UPDATE</button>
     </div>
    
     <script>
@@ -26,11 +26,13 @@
 
 	  function copyLocation() {
 
+	    var bar = document.getElementById("update-location");
+		bar.innerHTML = "Copied"
+
 		latitude.select();
 		document.execCommand("copy");
 		
-		var bar = document.getElementById("update-location");
-		bar.innerHTML = "Copied"
+		
 		
 	  }
 
