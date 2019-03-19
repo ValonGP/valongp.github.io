@@ -5,8 +5,6 @@
   <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 
   <body>
-
-
     
     <div id = "box">
       
@@ -15,32 +13,34 @@
         <p id="latitude-value">-----</p>
         <p id="longitude-title">LONGITUDE</p>
         <p id="longitude-value">-----</p>
+        <input id="template"></input>
       </div>
-      <button id="update-location" onclick="copyLocation()">UPDATE</button>
+      <button id="update-location" onclick="updateLocation()">UPDATE</button>
+	  <button id="copy-location" onclick="copyLocation()">COPY</button>
     </div>
    
     <script>
     
       var latitude = document.getElementById("latitude-value");
       var longitude = document.getElementById("longitude-value");
+			var template = document.getElementById("template")
 
 	  function copyLocation() {
 
-	    var bar = document.getElementById("update-location");
-		bar.innerHTML = "Copied"
+      template.select();
+      document.execCommand("copy")
 
-		latitude.select();
-		document.execCommand("copy");
-		
-		
-		
+	    var bar = document.getElementById("copy-location");
+			bar.innerHTML = "Copied";
+      
 	  }
 
-      function getLocation() {
+      function updateLocation() {
       	latitude.innerHTML = "..updating.."
         longitude.innerHTML = "..updating.."
         if (navigator.geolocation) {
           navigator.geolocation.getCurrentPosition(showPosition);
+          
         } else {
           latitude.innerHTML = "-----";
           longitude.innerHTML = "GeoLocation is not Supported.";
@@ -50,6 +50,7 @@
       function showPosition(position) {
         latitude.innerHTML = position.coords.latitude;
         longitude.innerHTML = position.coords.longitude;
+        template.value = latitude.textContent + "/" + longitude.textContent;
       }
 
     </script>

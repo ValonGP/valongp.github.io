@@ -79,7 +79,24 @@ body {
   height: 75px;
   width: 20%;
   font-size: 20px;
-  position: absolute;
+  bottom: 3%;
+  left: 20.5%;
+  float: left;
+  background-color: rgba(0, 0, 0, 0.15);
+  font-family: 'Armata'; font-size: 22px;
+}
+
+#template {
+  opacity: 0;
+}
+
+#copy-location {
+  border: 2px solid powderblue;
+  color: white;
+  display: inline-block;
+  height: 75px;
+  width: 20%;
+  font-size: 20px;
   bottom: 3%;
   left: 20.5%;
   float: left;
