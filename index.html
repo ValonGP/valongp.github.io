@@ -25,8 +25,8 @@
       var longitude = document.getElementById("longitude-value");
 
 	  function copyLocation() {
-	    var new_location = latitude + "/" + longitude;
-		new_location.select();
+
+		latitude.select();
 		document.execCommand("copy");
 		
 		var bar = document.getElementById("update-location");
