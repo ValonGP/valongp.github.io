@@ -62,7 +62,7 @@
       function showPosition(position) {
         latitude.innerHTML = position.coords.latitude.toString().substring(0,12);
         longitude.innerHTML = position.coords.longitude.toString().substring(0,12);
-        template.value = latitude.textContent + "/" + longitude.textContent;
+        template.value = "node:" + latitude.textContent + "/" + longitude.textContent;
       }
 
     </script>
