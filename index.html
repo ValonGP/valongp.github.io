@@ -60,8 +60,8 @@
       }
 
       function showPosition(position) {
-        latitude.innerHTML = position.coords.latitude.toString().substring(0,9);
-        longitude.innerHTML = position.coords.longitude.toString().substring(0,9);
+        latitude.innerHTML = position.coords.latitude.toString().substring(0,12);
+        longitude.innerHTML = position.coords.longitude.toString().substring(0,12);
         template.value = latitude.textContent + "/" + longitude.textContent;
       }
 
